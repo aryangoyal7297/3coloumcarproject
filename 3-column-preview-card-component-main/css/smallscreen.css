@@ -1,0 +1,21 @@
+#content{
+    flex-direction: column;
+    justify-content: center;
+    align-items:center
+    
+}
+#sedans{
+    border-radius: 15px 15px 0px 0px;
+    width:120%;
+}
+#suv{
+    width:120%;
+}
+#luxuary{
+    border-radius: 0px 0px 15px 15px;
+    width:120%;
+}
+.attribution{
+  
+    font-size: 10px;
+}

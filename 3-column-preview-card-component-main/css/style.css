@@ -1,0 +1,89 @@
+#content {
+    display: flex;
+    /* width: 1440px; */
+    width: 60%;
+    margin: 50px auto;
+  
+   
+}
+
+/* sedan section  */
+#sedans{
+    background-color: hsl(31, 77%, 52%);
+    padding-left: 50px;
+    border-radius: 15px 0px 0px 15px;
+    
+}
+
+#sedans button {
+    color: hsl(31, 77%, 52%);
+}
+
+/* suvs section  */
+#suv {
+    background-color: hsl(184, 100%, 22%);
+    padding-left: 50px;
+    
+}
+
+#suv button {
+    color: hsl(184, 100%, 22%);
+}
+
+/* luxuary section  */
+#luxuary {
+    background-color: hsl(179, 100%, 13%);
+    padding-left: 50px;
+   border-radius: 0px 15px 15px 0px;
+}
+
+#luxuary button {
+    color: hsl(179, 100%, 13%);
+}
+/* attribution section  */
+.attribution{
+  
+    font-size: 20px;
+}
+
+
+/* utility section  */
+
+body {
+    background-color: hsl(0, 0%, 95%);
+    Font-size: 15px;
+
+
+}
+
+p {
+    color:hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    width: 69%;
+    letter-spacing: 1.2px;
+
+}
+
+h1 {
+    color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+    font-size:35px ;
+}
+
+.btn{
+    
+    padding: 5px 8px;
+    border-radius: 20px;
+    border: none;
+    padding:12px 30px;
+    margin: 50px 0;
+    background-color:hsl(0, 0%, 95%);
+}
+.btn:hover{
+    background-color:  
+    background-color:hsla(0, 0%, 100%, 0.75);
+    cursor: pointer;
+}
+img{
+    padding-top: 50px;
+}
